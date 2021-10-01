@@ -14,3 +14,6 @@ El numero 123 se descompone de la forma decimal(base 10) a :
 </p>
 <img src = "imagenes/123.jpg" />
 
+
+<img src = "imagenes/1.jpg" />
+
