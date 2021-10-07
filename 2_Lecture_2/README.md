@@ -1,0 +1,1 @@
+<h1> LECTURE_2 CS50</h1>
